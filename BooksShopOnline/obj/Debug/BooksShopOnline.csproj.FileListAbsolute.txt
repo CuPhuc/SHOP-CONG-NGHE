@@ -1,0 +1,300 @@
+D:\BooksShopOnline\BooksShopOnline\bin\BooksShopOnline.dll.config
+D:\BooksShopOnline\BooksShopOnline\bin\BooksShopOnline.dll
+D:\BooksShopOnline\BooksShopOnline\bin\BooksShopOnline.pdb
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\csc.exe
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\csc.exe.config
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\csc.rsp
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\csi.exe
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\csi.exe.config
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\csi.rsp
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.AppContext.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Collections.Immutable.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Console.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.IO.Compression.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.IO.FileSystem.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.IO.Pipes.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Security.AccessControl.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Security.Claims.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Security.Principal.Windows.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.ValueTuple.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Xml.XPath.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\vbc.exe
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\vbc.exe.config
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\vbc.rsp
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\VBCSCompiler.exe
+D:\BooksShopOnline\BooksShopOnline\bin\roslyn\VBCSCompiler.exe.config
+D:\BooksShopOnline\BooksShopOnline\bin\Antlr3.Runtime.dll
+D:\BooksShopOnline\BooksShopOnline\bin\AspNet.ScriptManager.bootstrap.dll
+D:\BooksShopOnline\BooksShopOnline\bin\AspNet.ScriptManager.jQuery.dll
+D:\BooksShopOnline\BooksShopOnline\bin\EntityFramework.dll
+D:\BooksShopOnline\BooksShopOnline\bin\EntityFramework.SqlServer.dll
+D:\BooksShopOnline\BooksShopOnline\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\BooksShopOnline\BooksShopOnline\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\BooksShopOnline\BooksShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BooksShopOnline\BooksShopOnline\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\BooksShopOnline\BooksShopOnline\bin\Microsoft.ScriptManager.WebForms.dll
+D:\BooksShopOnline\BooksShopOnline\bin\Microsoft.Web.Infrastructure.dll
+D:\BooksShopOnline\BooksShopOnline\bin\Newtonsoft.Json.dll
+D:\BooksShopOnline\BooksShopOnline\bin\System.Web.Optimization.dll
+D:\BooksShopOnline\BooksShopOnline\bin\WebGrease.dll
+D:\BooksShopOnline\BooksShopOnline\bin\EntityFramework.xml
+D:\BooksShopOnline\BooksShopOnline\bin\EntityFramework.SqlServer.xml
+D:\BooksShopOnline\BooksShopOnline\bin\System.Web.Optimization.xml
+D:\BooksShopOnline\BooksShopOnline\bin\Newtonsoft.Json.xml
+D:\BooksShopOnline\BooksShopOnline\bin\Antlr3.Runtime.pdb
+D:\BooksShopOnline\BooksShopOnline\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\BooksShopOnline\BooksShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BooksShopOnline\BooksShopOnline\obj\Debug\BooksShopOnline.csproj.CoreCompileInputs.cache
+D:\BooksShopOnline\BooksShopOnline\obj\Debug\BooksShopOnline.csproj.CopyComplete
+D:\BooksShopOnline\BooksShopOnline\obj\Debug\BooksShopOnline.dll
+D:\BooksShopOnline\BooksShopOnline\obj\Debug\BooksShopOnline.pdb
+D:\BooksShopOnline\BooksShopOnline\obj\Debug\BooksShopOnline.csprojAssemblyReference.cache
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.csprojAssemblyReference.cache
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.csproj.CoreCompileInputs.cache
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.pdb
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\BooksShopOnline.dll.config
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\BooksShopOnline.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\BooksShopOnline.pdb
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\csc.exe
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\csc.exe.config
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\csc.rsp
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\csi.exe
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\csi.exe.config
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\csi.rsp
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.AppContext.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Console.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.IO.Compression.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Security.Claims.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.ValueTuple.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\vbc.exe
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\vbc.exe.config
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\vbc.rsp
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\VBCSCompiler.exe
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Antlr3.Runtime.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\EntityFramework.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\EntityFramework.SqlServer.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Newtonsoft.Json.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\System.Web.Optimization.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\WebGrease.dll
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\EntityFramework.xml
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\EntityFramework.SqlServer.xml
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\System.Web.Optimization.xml
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Newtonsoft.Json.xml
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Antlr3.Runtime.pdb
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Edogawa Doras\Desktop\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.csproj.CopyComplete
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\BooksShopOnline.dll.config
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\BooksShopOnline.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\BooksShopOnline.pdb
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\csc.exe
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\csc.exe.config
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\csc.rsp
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\csi.exe
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\csi.exe.config
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\csi.rsp
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.AppContext.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Console.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.IO.Compression.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.IO.Pipes.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Security.AccessControl.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Security.Claims.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Security.Principal.Windows.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.ValueTuple.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Xml.XPath.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\vbc.exe
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\vbc.exe.config
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\vbc.rsp
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Antlr3.Runtime.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\AspNet.ScriptManager.bootstrap.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\AspNet.ScriptManager.jQuery.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\EntityFramework.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\EntityFramework.SqlServer.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Microsoft.ScriptManager.WebForms.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Newtonsoft.Json.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\System.Web.Optimization.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\WebGrease.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\EntityFramework.xml
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\EntityFramework.SqlServer.xml
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\System.Web.Optimization.xml
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Newtonsoft.Json.xml
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Antlr3.Runtime.pdb
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.csprojAssemblyReference.cache
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.csproj.CoreCompileInputs.cache
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.csproj.CopyComplete
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.dll
+E:\BaitapGIATRUNG\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.pdb
+E:\Mobile\BooksShopOnline\bin\BooksShopOnline.dll.config
+E:\Mobile\BooksShopOnline\bin\BooksShopOnline.dll
+E:\Mobile\BooksShopOnline\bin\BooksShopOnline.pdb
+E:\Mobile\BooksShopOnline\bin\roslyn\csc.exe
+E:\Mobile\BooksShopOnline\bin\roslyn\csc.exe.config
+E:\Mobile\BooksShopOnline\bin\roslyn\csc.rsp
+E:\Mobile\BooksShopOnline\bin\roslyn\csi.exe
+E:\Mobile\BooksShopOnline\bin\roslyn\csi.exe.config
+E:\Mobile\BooksShopOnline\bin\roslyn\csi.rsp
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Mobile\BooksShopOnline\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Mobile\BooksShopOnline\bin\roslyn\System.AppContext.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Collections.Immutable.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Console.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.IO.Compression.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.IO.FileSystem.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.IO.Pipes.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Reflection.Metadata.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Security.AccessControl.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Security.Claims.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.ValueTuple.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Xml.XPath.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Mobile\BooksShopOnline\bin\roslyn\vbc.exe
+E:\Mobile\BooksShopOnline\bin\roslyn\vbc.exe.config
+E:\Mobile\BooksShopOnline\bin\roslyn\vbc.rsp
+E:\Mobile\BooksShopOnline\bin\roslyn\VBCSCompiler.exe
+E:\Mobile\BooksShopOnline\bin\roslyn\VBCSCompiler.exe.config
+E:\Mobile\BooksShopOnline\bin\Antlr3.Runtime.dll
+E:\Mobile\BooksShopOnline\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Mobile\BooksShopOnline\bin\AspNet.ScriptManager.jQuery.dll
+E:\Mobile\BooksShopOnline\bin\EntityFramework.dll
+E:\Mobile\BooksShopOnline\bin\EntityFramework.SqlServer.dll
+E:\Mobile\BooksShopOnline\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Mobile\BooksShopOnline\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Mobile\BooksShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Mobile\BooksShopOnline\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Mobile\BooksShopOnline\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Mobile\BooksShopOnline\bin\Microsoft.Web.Infrastructure.dll
+E:\Mobile\BooksShopOnline\bin\Newtonsoft.Json.dll
+E:\Mobile\BooksShopOnline\bin\System.Web.Optimization.dll
+E:\Mobile\BooksShopOnline\bin\WebGrease.dll
+E:\Mobile\BooksShopOnline\bin\EntityFramework.xml
+E:\Mobile\BooksShopOnline\bin\EntityFramework.SqlServer.xml
+E:\Mobile\BooksShopOnline\bin\System.Web.Optimization.xml
+E:\Mobile\BooksShopOnline\bin\Newtonsoft.Json.xml
+E:\Mobile\BooksShopOnline\bin\Antlr3.Runtime.pdb
+E:\Mobile\BooksShopOnline\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Mobile\BooksShopOnline\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.csprojAssemblyReference.cache
+E:\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.csproj.CoreCompileInputs.cache
+E:\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.csproj.CopyComplete
+E:\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.dll
+E:\Mobile\BooksShopOnline\obj\Debug\BooksShopOnline.pdb
