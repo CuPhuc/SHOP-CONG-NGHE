@@ -1,4 +1,4 @@
-# Mobile Store
+# Shop Công Nghệ 
 <p> Trang Chủ</p>
 <p>Giới thiệu sơ lượt về Shop Công Nghệ.</p>
 <img src="https://raw.githubusercontent.com/CuPhuc/SHOP-CONG-NGHE/master/Trangchu.JPG">
