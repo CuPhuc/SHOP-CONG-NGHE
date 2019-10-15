@@ -9,7 +9,7 @@
 <img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/Mua.JPG?raw=true">
 <p>Sau khi bạn nhấp chuột vào nút thêm vào giỏ hàng thì lập tức trang web sẽ hiện ra một trang cho bạn tiến hành đặt hàng</p>
 <img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/Gio%20Ha%CC%80ng.JPG?raw=true">
-<p> Nếu bạn không muốn chọn mua sản phẩm và hủy khỏi giỏ hàng bạn có thể click chuột vao ô vuông nhỏ nhỏ trong cột hủy hàng, lập tức sản phẩm mà bạn đã chọn sẽ bị xóa khỏi giỏ hàng của bạn.</p>
+<p> Nếu bạn không muốn chọn mua sản phẩm và hủy khỏi giỏ hàng bạn có thể click chuột vao ô vuông nhỏ nhỏ trong cột hủy hàng và bạn click tiếp vào cập nhật giỏ hàng, lập tức sản phẩm mà bạn đã chọn sẽ bị xóa khỏi giỏ hàng của bạn.</p>
 <img src= "https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/anh%20huy%20hang.JPG?raw=true">
 <p> Sau khi bạn thực hiện thao tác xong giỏ hàng của bạn xóa sản phẩm bạn đã chọn trước đó </p>
 <img src= "https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/xo%CC%81a%20mat%20hang.JPG?raw=true">
