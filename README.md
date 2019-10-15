@@ -11,7 +11,7 @@
 <p>Một số hình ảnh về Cơ sở dữ liệu <p>
   Hình ảnh liên kết của CSDL
 <img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/LIENKET.JPG?raw=true">
-  
- 
-  
-  
+<p>Hình ảnh về CSDL sản phẩm
+ <img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/A%CC%89nh%20Sa%CC%89n%20Ph%C3%A2%CC%89m.JPG?raw=true">
+ <p>Hình ảnh CSDL về các hãng điện thoại
+  <img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/A%CC%89nh%20ha%CC%83ng.JPG?raw=true">
