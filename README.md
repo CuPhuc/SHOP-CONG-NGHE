@@ -8,3 +8,10 @@
 <img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/Mua.JPG?raw=true">
 <p>Sau khi bạn nhấp chuột vào nút thêm vào giỏ hàng thì lập tức trang web sẽ hiện ra một trang cho bạn tiến hành đặt hàng</p>
 <img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/Mua%20hang.JPG?raw=true">
+<p>Một số hình ảnh về Cơ sở dữ liệu <p>
+  Hình ảnh liên kết của CSDL
+<img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/LIENKET.JPG?raw=true">
+  
+ 
+  
+  
