@@ -20,3 +20,5 @@
  <img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/A%CC%89nh%20Sa%CC%89n%20Ph%C3%A2%CC%89m.JPG?raw=true">
  <p>Hình ảnh CSDL về các hãng điện thoại
   <img src="https://github.com/CuPhuc/SHOP-CONG-NGHE/blob/master/A%CC%89nh%20ha%CC%83ng.JPG?raw=true">
+ 
+ <p> KẾT THÚC TRANG WEB. </p>
